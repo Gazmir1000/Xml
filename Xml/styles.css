@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  background-color: burlywood;
+  padding: 8px;
+}
+
+.filter-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.filter-container p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.filter-container select {
+  width: 300px;
+  padding: 4px;
+  border: 1px solid firebrick;
+  background-color: white;
+}
+
+.btn {
+  background-color: crimson;
+  color: white;
+  font-size: 14px;
+  font-weight: 550;
+  padding: 8px 16px;
+  border-radius: 4px;
+}

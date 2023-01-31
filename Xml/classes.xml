@@ -1,0 +1,17 @@
+<classes>
+  <class>
+    <name>Math 101</name>
+    <time>9:00 AM</time>
+    <location>Room 101</location>
+  </class>
+  <class>
+    <name>History 201</name>
+    <time>10:00 AM</time>
+    <location>Room 201</location>
+  </class>
+  <class>
+    <name>English 301</name>
+    <time>11:00 AM</time>
+    <location>Room 301</location>
+  </class>
+</classes>
